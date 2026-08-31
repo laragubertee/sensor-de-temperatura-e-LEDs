@@ -8,7 +8,7 @@ Enunciano: Sensor de Temperatura e LEDs
 
 
 
-Acessar projeto no Tinkercad
+https://www.tinkercad.com/things/5JZfF9Bgrk7-sensor-de-temperatura-e-leds/
 
 
 
