@@ -8,7 +8,9 @@ Enunciano: Sensor de Temperatura e LEDs
 
 
 
-https://www.tinkercad.com/things/5JZfF9Bgrk7-sensor-de-temperatura-e-leds/ 
+Acessar projeto no Tinkercad
+
+
 
 A atividade consiste em montar um circuito no Arduino Uno utilizando uma protoboard, três LEDs, resistores e um sensor de temperatura TMP36. Primeiro, a protoboard é alimentada com 5V e GND do Arduino. Depois, os três LEDs são conectados aos pinos digitais, cada um com um resistor para limitar a corrente. O sensor TMP36 é conectado ao pino analógico A5 para realizar a leitura da temperatura.
 
